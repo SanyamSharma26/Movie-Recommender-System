@@ -1,0 +1,15 @@
+# Virtual env
+.venv/
+
+# Local secrets (do not upload)
+.streamlit/secrets.toml
+
+# Large binaries
+*.pkl
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+
